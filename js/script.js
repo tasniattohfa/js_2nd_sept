@@ -3,7 +3,7 @@ function turnOn() {
     var imgElement = document.getElementById('img1');
 
     // Change the image source to the lit bulb image
-    imgElement.src = '../images/bulbon.png';
+    imgElement.src = 'images/bulbon.png';
 
 
 }
@@ -12,7 +12,7 @@ function turnOff() {
     var imgElement = document.getElementById('img1');
 
     // Change the image source to the lit bulb image
-    imgElement.src = '../images/bulboff.png';
+    imgElement.src = 'images/bulboff.png';
 
 
 }
